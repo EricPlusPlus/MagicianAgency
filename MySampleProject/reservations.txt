@@ -1,0 +1,12 @@
+Richard Synder	Halloween	Saul Goodman
+Eric Pratt	Halloween	Mr. Swift
+Anthony McCoy	Christmas	MrMagician
+Mariah Lanford	Halloween	BlackMagic
+Jesse Pinkman	Halloween	MrMagician
+Gus Fring	New Years	Mr. Swift
+Mr White	Thanksgiving	Mr. Swift
+Mike Erhmantrout	Independance Day	Mr. Swift
+Skinny Pete	New Years	Saul Goodman
+Badger	New Years	BlackMagic
+Hank Schrader	Christmas	Mr. Swift
+Skyler White	Easter	Mr. Swift
