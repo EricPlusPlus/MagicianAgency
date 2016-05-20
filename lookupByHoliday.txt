@@ -1,0 +1,6 @@
+Christmas	Saul Goodman|BlackMagic
+Easter	Saul Goodman|BlackMagic|MrMagician
+Halloween	
+Thanksgiving	Saul Goodman|BlackMagic|MrMagician
+New Years	MrMagician
+Independance Day	Saul Goodman|BlackMagic|MrMagician
